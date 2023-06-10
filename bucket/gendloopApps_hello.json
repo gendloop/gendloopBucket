@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
-    "description": "gendoopApps-hello.",
+    "version": "1.0.1",
+    "description": "a test app",
     "homepage": "https://github.com/gendloop/gendloopApps",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/gendloopApps/archive/refs/tags/v1.0.0.zip"
+            "url": "https://github.com/gendloop/gendloopApps/archive/refs/tags/v1.0.1.zip"
         }
     },
-    "bin": "README.md",
+    "bin": "gendloopApps-${version}.zip",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/gendloop/gendloopApps/archive/refs/tags/v1.0.0.zip"
+                "url": "https://github.com/gendloop/gendloopApps/archive/refs/tags/v$version.zip"
             }
         }
     }
