@@ -1,11 +1,11 @@
 {
-    "version": "3.0.165",
+    "version": "1.0.0",
     "description": "gendoopApps-hello.",
     "homepage": "https://github.com/gendloop/gendloopApps",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://raw.githubusercontent.com/genloop/gendloopApps/main/README.md"
+            "url": "https://github.com/gendloop/gendloopApps/archive/refs/tags/v1.0.0.zip"
         }
     },
     "bin": "README.md",
@@ -13,7 +13,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://raw.githubusercontent.com/genloop/gendloopApps/main/README.md"
+                "url": "https://github.com/gendloop/gendloopApps/archive/refs/tags/v1.0.0.zip"
             }
         }
     }
