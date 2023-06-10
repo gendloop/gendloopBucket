@@ -8,7 +8,7 @@
             "url": "https://github.com/gendloop/gendloopApps/archive/refs/tags/v1.0.1.zip"
         }
     },
-    "bin": "gendloopApps-${version}.zip",
+    "bin": "README.md",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
