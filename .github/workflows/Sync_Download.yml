@@ -11,7 +11,7 @@ on:
 
 jobs:
   sync_download:
-    runs-on: windows-2019
+    runs-on: ubuntu-latest
     steps:
       - name: sync-download
         uses: gendloop/sync-download@main
