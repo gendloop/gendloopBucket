@@ -9,7 +9,7 @@
             "hash": "174b9223008e00f27693be386ee6d1e1927c80bdfdb1eef2bcd0ba0bca40482c"
         }
     },
-    "extract_dir": "NeatDM-$version",
+    "extract_dir": "NeatDM-1.0.0/scripts",
     "pre_install": [
         "python download.py $dir"
     ],
