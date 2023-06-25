@@ -10,13 +10,12 @@
         }
     },
     "pre_install": [
-        "$app_root = \"$dir\".Replace('\\', '\\\\')",
-        "python \"$app_root\\download.py\" \"$app_root\""
+        "python \"$dir\\download.py\" \"$dir\""
     ],
     "bin": "NeatDM.exe",
     "installer": {
         "script": [
-            "\"$app_root\\NeatDM_setup.exe\" \"$app_root\""
+            "\"$dir\\NeatDM_setup.exe\" \"$dir\""
         ]
     },
     "checkver": "github",
