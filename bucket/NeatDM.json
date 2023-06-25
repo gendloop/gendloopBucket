@@ -14,7 +14,7 @@
         "persist_data @{persist = @('packages', 'root')} $original_dir $persist_dir"
     ],
     "installer": {
-        "file": "$dir\\NeatDM_setup.exe",
+        "file": "NeatDM_setup.exe",
         "args": [
             "--no-admin",
             "--no-shortcuts",
