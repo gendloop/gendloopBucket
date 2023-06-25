@@ -6,23 +6,18 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.0.0.zip",
-            "hash": "174b9223008e00f27693be386ee6d1e1927c80bdfdb1eef2bcd0ba0bca40482c",
-            "extract_dir": "NeatDM-1.0.0\\scripts"
+            "hash": "174b9223008e00f27693be386ee6d1e1927c80bdfdb1eef2bcd0ba0bca40482c"
         }
     },
     "pre_install": [
-        "Push-Location $dir",
-        "Write-Host dir: $dir",
-        "python download.py $dir",
-        "Pop-Location"
+        "$app_root = \"$dir\".Replace('\\', '\\\\')",
+        "python download.py $app_root"
     ],
     "bin": "NeatDM.exe",
     "installer": {
-        "file": "NeatDM_setup.exe",
-        "args": [
-            "$dir"
-        ],
-        "keep": true
+        "script": [
+            "$app_root\\NeatDM_setup.exe $app_root"
+        ]
     },
     "checkver": "github",
     "autoupdate": {
