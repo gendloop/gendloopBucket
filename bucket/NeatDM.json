@@ -16,7 +16,7 @@
     "installer": {
         "file": "NeatDM_setup.exe",
         "args": [
-            "\"$dir\""
+            "\"$dir\\app\""
         ]
     },
     "checkver": "github",
