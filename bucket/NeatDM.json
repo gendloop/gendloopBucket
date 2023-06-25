@@ -11,11 +11,21 @@
     },
     "pre_install": [
         "python \"$dir\\NeatDM-1.0.0\\scripts\\download.py\" \"$dir\"",
-        "Start-Process \"$dir\\NeatDM_setup.exe\" \"$dir\" -Wait"
+        "persist_data @{persist = @('packages', 'root')} $original_dir $persist_dir"
     ],
-    "post_install": "",
-    "pre_uninstall": "",
-    "post_uninstall": "",
+    "installer": {
+        "file": "$dir\\NeatDM_setup.exe",
+        "args": [
+            "--no-admin",
+            "--no-shortcuts",
+            "--quiet-mode",
+            "--local-package-dir",
+            "$persist_dir\\packages",
+            "--root",
+            "$persist_dir\\root"
+        ],
+        "keep": true
+    },
     "bin": "NeatDM.exe",
     "checkver": "github",
     "autoupdate": {
