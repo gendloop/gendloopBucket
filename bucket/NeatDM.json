@@ -11,8 +11,10 @@
     },
     "extract_dir": "NeatDM-1.0.0/scripts",
     "pre_install": [
+        "Push-Location $dir",
         "Write-Host dir: $dir",
-        "python download.py $dir"
+        "python download.py $dir",
+        "Pop-Location"
     ],
     "bin": "NeatDM_setup.exe",
     "checkver": "github",
