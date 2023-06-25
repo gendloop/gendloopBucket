@@ -15,7 +15,7 @@
     "installer": {
         "file": "NeatDM_setup.exe",
         "args": [
-            "root"
+            "$dir\\root"
         ],
         "keep": true
     },
