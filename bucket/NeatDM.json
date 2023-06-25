@@ -15,7 +15,10 @@
     "bin": "NeatDM.exe",
     "installer": {
         "script": [
-            "\"$dir\\NeatDM_setup.exe\" \"$dir\""
+            "\"$dir\\NeatDM_setup.exe\""
+        ],
+        "args": [
+            "\"$dir\""
         ]
     },
     "checkver": "github",
