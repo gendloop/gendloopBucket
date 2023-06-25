@@ -17,7 +17,8 @@
         "file": "NeatDM_setup.exe",
         "args": [
             "\"$dir\""
-        ]
+        ],
+        "keep": true
     },
     "checkver": "github",
     "autoupdate": {
