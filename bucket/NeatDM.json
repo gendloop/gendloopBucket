@@ -10,15 +10,10 @@
         }
     },
     "pre_install": [
-        "python \"$dir\\NeatDM-1.0.0\\scripts\\download.py\" \"$dir\""
+        "python \"$dir\\NeatDM-1.0.0\\scripts\\download.py\" \"$dir\"",
+        "NeatDM_setup.exe \"$dir\\app\""
     ],
     "bin": "NeatDM.exe",
-    "installer": {
-        "file": "NeatDM_setup.exe",
-        "args": [
-            "\"$dir\\app\""
-        ]
-    },
     "checkver": "github",
     "autoupdate": {
         "architecture": {
