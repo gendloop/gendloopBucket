@@ -11,7 +11,7 @@
     },
     "pre_install": [
         "python \"$dir\\NeatDM-1.0.0\\scripts\\download.py\" \"$dir\"",
-        "NeatDM_setup.exe \"$dir\\app\""
+        ".\\NeatDM_setup.exe \"$dir\\app\""
     ],
     "bin": "NeatDM.exe",
     "checkver": "github",
