@@ -16,12 +16,6 @@
     "installer": {
         "file": "NeatDM_setup.exe",
         "args": [
-            "--no-admin",
-            "--no-shortcuts",
-            "--quiet-mode",
-            "--local-package-dir",
-            "$persist_dir\\packages",
-            "--root",
             "$persist_dir\\root"
         ],
         "keep": true
