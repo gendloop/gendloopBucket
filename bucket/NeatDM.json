@@ -10,13 +10,12 @@
         }
     },
     "pre_install": [
-        "python \"$dir\\NeatDM-1.0.0\\scripts\\download.py\" \"$dir\"",
-        "persist_data @{persist = @('packages', 'root')} $original_dir $persist_dir"
+        "python \"$dir\\NeatDM-1.0.0\\scripts\\download.py\" \"$dir\\root\""
     ],
     "installer": {
         "file": "NeatDM_setup.exe",
         "args": [
-            "$persist_dir\\root"
+            "root"
         ],
         "keep": true
     },
