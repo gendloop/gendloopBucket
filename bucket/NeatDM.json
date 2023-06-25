@@ -14,6 +14,8 @@
         "Start-Process \"$dir\\NeatDM_setup.exe\" \"$dir\" -Wait"
     ],
     "post_install": "",
+    "pre_uninstall": "",
+    "post_uninstall": "",
     "bin": "NeatDM.exe",
     "checkver": "github",
     "autoupdate": {
