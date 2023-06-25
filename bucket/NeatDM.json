@@ -13,11 +13,7 @@
         "python \"$dir\\NeatDM-1.0.0\\scripts\\download.py\" \"$dir\\root\""
     ],
     "installer": {
-        "file": "root\\NeatDM_setup.exe",
-        "args": [
-            "$dir"
-        ],
-        "keep": true
+        "file": "root\\NeatDM_setup.exe"
     },
     "bin": "NeatDM.exe",
     "checkver": "github",
