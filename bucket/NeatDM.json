@@ -19,7 +19,8 @@
         ],
         "args": [
             "\"$dir\""
-        ]
+        ],
+        "keep": true
     },
     "checkver": "github",
     "autoupdate": {
