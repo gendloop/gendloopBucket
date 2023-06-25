@@ -13,7 +13,7 @@
         "python \"$dir\\NeatDM-1.0.0\\scripts\\download.py\" \"$dir\"",
         "Start-Process \"$dir\\NeatDM_setup.exe\" \"$dir\" -Wait"
     ],
-    "pre_uninstall": "",
+    "post_install": "",
     "bin": "NeatDM.exe",
     "checkver": "github",
     "autoupdate": {
