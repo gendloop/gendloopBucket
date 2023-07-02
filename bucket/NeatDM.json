@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A test app",
     "homepage": "https://github.com/gendloop/NeatDM",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
+            "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.0.1.zip",
+            "hash": "534717bc634105bd9280014e1e3e57264b9560f4c2fd62d2f26884cb485c87a8"
         }
     },
     "installer": {
@@ -19,7 +19,14 @@
     },
     "bin": "NeatDM.exe",
     "shortcuts": [
+<<<<<<< HEAD
         ["NeatDM.exe", "NeatDM"]
+=======
+        [
+            "NeatDM.exe",
+            "ndm"
+        ]
+>>>>>>> 722b7f90102d566b6977d61a14416c9af2d02b9c
     ],
     "checkver": "github",
     "autoupdate": {
