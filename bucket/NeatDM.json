@@ -19,14 +19,10 @@
     },
     "bin": "NeatDM.exe",
     "shortcuts": [
-<<<<<<< HEAD
-        ["NeatDM.exe", "NeatDM"]
-=======
         [
             "NeatDM.exe",
-            "ndm"
+            "NeatDM"
         ]
->>>>>>> 722b7f90102d566b6977d61a14416c9af2d02b9c
     ],
     "checkver": "github",
     "autoupdate": {
