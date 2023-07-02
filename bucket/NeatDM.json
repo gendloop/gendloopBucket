@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "description": "a test app",
+    "description": "A test app",
     "homepage": "https://github.com/gendloop/NeatDM",
     "license": "LGPL-2.1-or-later",
     "architecture": {
@@ -17,6 +17,9 @@
         ]
     },
     "bin": "NeatDM.exe",
+    "shortcuts": [
+        ["NeatDM.exe", "NeatDM"]
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
