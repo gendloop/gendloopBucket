@@ -5,7 +5,8 @@
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.0.0.zip"
+            "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.0.0.zip",
+            "hash": ""
         }
     },
     "installer": {
@@ -18,7 +19,7 @@
     },
     "bin": "NeatDM.exe",
     "shortcuts": [
-        ["NeatDM.exe", "NeatDM"]
+        ["NeatDM.exe", "ndm"]
     ],
     "checkver": "github",
     "autoupdate": {
