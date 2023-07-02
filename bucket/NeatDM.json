@@ -12,11 +12,11 @@
         "script": [
             "Push-Location \"$dir\"",
             "7z x NeatDM-$version\\dist\\NeatDM.7z",
-            "Remove-Item NeatDM-$version",
+            "Remove-Item NeatDM-$version -Recurse",
             "Pop-Location"
         ]
     },
-    "bin": "app\\NeatDM.exe",
+    "bin": "NeatDM.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
