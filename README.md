@@ -1,4 +1,4 @@
-# Scoop Bucket Template
+# gendloopBucket
 
 ## Apps
 
