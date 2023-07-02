@@ -6,14 +6,19 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
         }
     },
-    "extract_dir": "NeatDM-$version\\dist",
     "installer": {
-        "script": "7z x $dir\\NeatDM.7z"
+        "script": [
+            "Push-Location \"$dir\"",
+            "7z e v$version.zip NeatDM-$version\\dist\\* -r",
+            "7z x NeatDM.7z -oapp",
+            "Remove-Item v$version.zip",
+            "Remove-Item NeatDM.7z",
+            "Pop-Location"
+        ]
     },
-    "bin": "NeatDM.exe",
+    "bin": "app\\NeatDM.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
