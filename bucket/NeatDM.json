@@ -9,7 +9,7 @@
             "hash": ""
         }
     },
-    "extract_dir": "NeatDM-$version\\dist",
+    "extract_dir": "NeatDM-1.0.0\\dist",
     "installer": {
         "script": "7z x NeatDM.7z"
     },
