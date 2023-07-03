@@ -36,7 +36,10 @@
         "    }",
         "    Set-Content \"$dir\\$_\" $content -Encoding Ascii",
         "}",
-        "reg import 'install-context.reg'"
+        "reg import \"$dir\\install-context.reg\""
+    ],
+    "pre_uninstall": [
+        "reg import \"$dir\\uninstall-context.reg\""
     ],
     "bin": [
         "7z.exe",
