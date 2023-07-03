@@ -1,5 +1,7 @@
 # gendloopBucket
 
+Summarize personal commonly used software. 
+
 ## Apps
 
 [gendloopApps](https://github.com/gendloop/gendloopApps) 
