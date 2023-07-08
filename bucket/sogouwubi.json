@@ -14,13 +14,14 @@
             "Push-Location \"$dir\"",
             "7z x sogouwubi-$version\\dist\\sogouwubi.7z",
             "Remove-Item sogouwubi-$version -Recurse",
+            "Start-Process sogouwubi.exe -Wait",
             "Pop-Location"
         ]
     },
-    "bin": "ConfigIE.exe",
+    "bin": "app\\ConfigIE.exe",
     "shortcuts": [
         [
-            "ConfigIE.exe",
+            "app\\ConfigIE.exe",
             "sogouwubi"
         ]
     ],
