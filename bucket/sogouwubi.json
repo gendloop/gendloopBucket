@@ -14,17 +14,10 @@
             "Push-Location \"$dir\"",
             "7z x sogouwubi-$version\\dist\\sogouwubi.7z",
             "Remove-Item sogouwubi-$version -Recurse",
-            "Start-Process sogouwubi.exe -Wait",
+            "Start-Process sogouwubi.exe",
             "Pop-Location"
         ]
     },
-    "bin": "app\\ConfigIE.exe",
-    "shortcuts": [
-        [
-            "app\\ConfigIE.exe",
-            "sogouwubi"
-        ]
-    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
