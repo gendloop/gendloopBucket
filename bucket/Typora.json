@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.3.8",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/Typora",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/Typora/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
+            "url": "https://github.com/gendloop/Typora/archive/refs/tags/v1.3.8.zip",
+            "hash": "1eff2c2d949d65c0404dbc6d9bb96fcce1dfd61634c65b2d42f1d3461c0b381f"
         }
     },
     "installer": {
