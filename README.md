@@ -12,7 +12,20 @@ Summarize personal commonly used software.
 
 ## Buckets
 
+1. [gendloopBucket](#gendloopBucket-1) 
+2. [extras](#extras) 
+3. [games](#games) 
+4. [java](#java) 
+5. [main](#main) 
+6. [nerd-fonts](#nerd-fonts) 
+7. [nirsoft](#nirsoft) 
+8. [nonportable](#nonportable) 
+9. [php](#php) 
+10. [versions](#versions)  
+
 ### gendloopBucket
+
+[Buckets](#Buckets) 
 
 `scoop bucket add gendloopBucket https://github.com/gendloop/gendloopBucket` 
 
@@ -28,6 +41,8 @@ Summarize personal commonly used software.
 10. `scoop install gendloopBucket/YuQue` 
 
 ### extras
+
+[Buckets](#Buckets) 
 
 `scoop bucket add extras https://github.com/lukesampson/scoop-extras` 
 
@@ -51,11 +66,15 @@ Summarize personal commonly used software.
 
 ### games
 
+[Buckets](#Buckets) 
+
 `scoop bucket add https://github.com/Calinou/scoop-games` 
 
 
 
 ### java
+
+[Buckets](#Buckets) 
 
 `scoop bucket add java https://github.com/ScoopInstaller/Java` 
 
@@ -63,7 +82,9 @@ Summarize personal commonly used software.
 
 ### main
 
-`scoop bucket add main https://github.com/ScoopInstaller/Main` 
+[Buckets](#Buckets) 
+
+`scoop bucket add main https://github.com/ScoopInstaller/Main`  
 
 1. `scoop install main/aliyun` 
 2. `scoop install main/aria2` 
@@ -79,17 +100,23 @@ Summarize personal commonly used software.
 
 ### nerd-fonts
 
+[Buckets](#Buckets) 
+
 `scoop bucket add nerd-fonts https://github.com/matthewjberger/scoop-nerd-fonts` 
 
 
 
 ### nirsoft
 
+[Buckets](#Buckets) 
+
 `scoop bucket add nirsoft https://github.com/kodybrown/scoop-nirsoft` 
 
 
 
 ### nonportable
+
+[Buckets](#Buckets) 
 
 `scoop bucket add nonportable https://github.com/ScoopInstaller/Nonportable` 
 
@@ -98,11 +125,15 @@ Summarize personal commonly used software.
 
 ### php
 
+[Buckets](#Buckets) 
+
 `scoop bucket add php https://github.com/ScoopInstaller/PHP` 
 
 
 
 ### versions
+
+[Buckets](#Buckets) 
 
 `scoop bucket add versions https://github.com/ScoopInstaller/Versions` 
 
