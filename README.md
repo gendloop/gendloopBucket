@@ -39,6 +39,7 @@ Summarize personal commonly used software.
 8. `scoop install gendloopBucket/steamcommunity` 
 9. `scoop install gendloopBucket/Typora` 
 10. `scoop install gendloopBucket/YuQue` 
+11. `scoop install gendloopBucket/chatbox` 
 
 ### extras
 
