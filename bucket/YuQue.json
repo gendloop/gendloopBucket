@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "2.7.3",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/YuQue",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/YuQue/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
+            "url": "https://github.com/gendloop/YuQue/archive/refs/tags/v2.7.3.zip",
+            "hash": "79f4da2ec16d0a505f6f7ab7dc0f89689c88e95f202bc05a79f1446462ad20bb"
         }
     },
     "installer": {
