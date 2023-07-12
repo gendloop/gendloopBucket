@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.4.20",
     "description": "A test app",
     "homepage": "https://github.com/gendloop/NeatDM",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.0.0.zip",
-            "hash": "15bf4b5a9446df0957f30260bb4556b1daff6e8b9cef71b310955048d9266874"
+            "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.4.20.zip",
+            "hash": "3ac4badc465ade4e940c6c7af3389dd59e350073d2eaf3a191963b9284cebcb3"
         }
     },
     "installer": {
