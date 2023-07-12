@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "2.1.4",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/fastgithub",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/fastgithub/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
+            "url": "https://github.com/gendloop/fastgithub/archive/refs/tags/v2.1.4.zip",
+            "hash": "24f8fb3655ddc5cf36c2c6dc89b52151457627f4b356c206f6e8a2f237caba4e"
         }
     },
     "installer": {
