@@ -4,7 +4,7 @@ Summarize personal commonly used software.
 
 ## Env
 
-* $\ge\ $ Win 10,  64-bit 
+* $\ge$ Win 10,  64-bit 
 
 ## Apps
 
