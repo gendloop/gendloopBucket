@@ -40,6 +40,7 @@ Summarize personal commonly used software.
 9. `scoop install gendloopBucket/Typora` 
 10. `scoop install gendloopBucket/YuQue` 
 11. `scoop install gendloopBucket/chatbox` 
+12. `scoop install gendloopBucket/ALiCloudDisk` 
 
 ### extras
 
