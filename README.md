@@ -65,6 +65,7 @@ Summarize personal commonly used software.
 15. `scoop install extras/vscode` 
 16. `scoop install extras/wechat` 
 17. `scoop install extras/wpsoffice` 
+18. `scoop install extras/shadowsocks` 
 
 ### games
 
