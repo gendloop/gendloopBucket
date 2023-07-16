@@ -41,6 +41,7 @@ Summarize personal commonly used software.
 10. `scoop install gendloopBucket/YuQue` 
 11. `scoop install gendloopBucket/chatbox` 
 12. `scoop install gendloopBucket/ALiCloudDisk` 
+13. `scoop install gendloopBucket/EdgeGo` 
 
 ### extras
 
