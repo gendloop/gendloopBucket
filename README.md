@@ -12,7 +12,7 @@ Summarize personal commonly used software.
 
 ## Buckets
 
-1. [gendloopBucket](#gendloopBucket-1) 
+1. [gendloopBucket](#gendloopbucket-1) 
 2. [extras](#extras) 
 3. [games](#games) 
 4. [java](#java) 
