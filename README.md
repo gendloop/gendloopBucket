@@ -25,7 +25,7 @@ Summarize personal commonly used software.
 
 ### gendloopBucket
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add gendloopBucket https://github.com/gendloop/gendloopBucket` 
 
@@ -46,7 +46,7 @@ Summarize personal commonly used software.
 
 ### extras
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add extras https://github.com/lukesampson/scoop-extras` 
 
@@ -73,7 +73,7 @@ Summarize personal commonly used software.
 
 ### games
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add https://github.com/Calinou/scoop-games` 
 
@@ -81,7 +81,7 @@ Summarize personal commonly used software.
 
 ### java
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add java https://github.com/ScoopInstaller/Java` 
 
@@ -89,7 +89,7 @@ Summarize personal commonly used software.
 
 ### main
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add main https://github.com/ScoopInstaller/Main`  
 
@@ -107,7 +107,7 @@ Summarize personal commonly used software.
 
 ### nerd-fonts
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add nerd-fonts https://github.com/matthewjberger/scoop-nerd-fonts` 
 
@@ -115,7 +115,7 @@ Summarize personal commonly used software.
 
 ### nirsoft
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add nirsoft https://github.com/kodybrown/scoop-nirsoft` 
 
@@ -123,7 +123,7 @@ Summarize personal commonly used software.
 
 ### nonportable
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add nonportable https://github.com/ScoopInstaller/Nonportable` 
 
@@ -132,7 +132,7 @@ Summarize personal commonly used software.
 
 ### php
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add php https://github.com/ScoopInstaller/PHP` 
 
@@ -140,7 +140,7 @@ Summarize personal commonly used software.
 
 ### versions
 
-[Buckets](#Buckets) 
+[Buckets](#buckets) 
 
 `scoop bucket add versions https://github.com/ScoopInstaller/Versions` 
 
