@@ -1,12 +1,12 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/chatbox",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/chatbox/archive/refs/tags/v0.6.1.zip",
-            "hash": "570f368705573d96bb5c298a0323adde92db5c7a3543629b2d6fdae4b0b6a346"
+            "url": "https://github.com/gendloop/chatbox/archive/refs/tags/v0.6.2.zip",
+            "hash": "4baabbc93e7973d7a7a47cd5a3c0b45f8f3cea5d130d5aeb0cdfe31ff7bff1c1"
         }
     },
     "installer": {
