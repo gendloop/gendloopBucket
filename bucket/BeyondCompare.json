@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "4.4.2",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/BeyondCompare",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/BeyondCompare/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
+            "url": "https://github.com/gendloop/BeyondCompare/archive/refs/tags/v4.4.2.zip",
+            "hash": "77467719a9fd1d26ea70c570a0421449bb5e107fc7f565c51f60fc3fc61aeae4"
         }
     },
     "installer": {
