@@ -43,6 +43,7 @@ Summarize personal commonly used software.
 12. `scoop install gendloopBucket/ALiCloudDisk` 
 13. `scoop install gendloopBucket/EdgeGo` 
 14. `scoop install gendloopBucket/VS_2017_Community` 
+15. `scoop install gendloopBucket/BeyondCompare` 
 
 ### extras
 
