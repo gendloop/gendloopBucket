@@ -86,7 +86,8 @@ Summarize personal commonly used software.
 
 `scoop bucket add java https://github.com/ScoopInstaller/Java` 
 
-
+1. `scoop install java/openjdk11` 
+2. `scoop install java/oraclejre8` 
 
 ### main
 
