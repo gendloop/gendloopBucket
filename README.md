@@ -107,6 +107,7 @@ Summarize personal commonly used software.
 10. `scoop install main/perl`
 11. `scoop install main/python` 
 12. `scoop install main/jenkins` 
+13. `scoop install main/docker` 
 
 ### nerd-fonts
 
