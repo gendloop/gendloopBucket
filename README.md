@@ -44,6 +44,7 @@ Summarize personal commonly used software.
 13. `scoop install gendloopBucket/EdgeGo` 
 14. `scoop install gendloopBucket/VS_2017_Community` 
 15. `scoop install gendloopBucket/BeyondCompare` 
+16. `scoop install gendloopBucket/Listary` 
 
 ### extras
 
@@ -55,7 +56,7 @@ Summarize personal commonly used software.
 2. `scoop install extras/fastcopy` 
 3. `scoop install extras/freecad` 
 4. `scoop install extras/imageglass` 
-5. `scoop install extras/listary` 
+5. ~~`scoop install extras/listary`~~ 
 6. `scoop install extras/motrix` 
 7. `scoop install extras/ndm` 
 8. `scoop install extras/nsis` 
