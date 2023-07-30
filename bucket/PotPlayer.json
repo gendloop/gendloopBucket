@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.7.1",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/PotPlayer",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/PotPlayer/archive/refs/tags/v1.0.0.zip",
-            "hash": "",
+            "url": "https://github.com/gendloop/PotPlayer/archive/refs/tags/v1.7.1.zip",
+            "hash": "7e3f5a642b35d266dca6f7421cf701b7af14b3aa85260590aa7bd551b481620c",
             "installer": {
                 "script": [
                     "Push-Location \"$dir\"",
@@ -18,8 +18,8 @@
             }
         },
         "32bit": {
-            "url": "https://github.com/gendloop/synergy/archive/refs/tags/v1.0.0.zip",
-            "hash": "",
+            "url": "https://github.com/gendloop/PotPlayer/archive/refs/tags/v1.7.1.zip",
+            "hash": "7e3f5a642b35d266dca6f7421cf701b7af14b3aa85260590aa7bd551b481620c",
             "installer": {
                 "script": [
                     "Push-Location \"$dir\"",
