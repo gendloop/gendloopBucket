@@ -45,7 +45,8 @@ Summarize personal commonly used software.
 14. `scoop install gendloopBucket/VS_2017_Community` 
 15. `scoop install gendloopBucket/BeyondCompare` 
 16. `scoop install gendloopBucket/Listary`                
-17. `scoop install gendloopBucket/synergy`                                                                                   
+17. `scoop install gendloopBucket/synergy`       
+18. `scoop install gendloopBucket/PotPlayer`                                                                             
 
 ### extras
 
