@@ -44,7 +44,7 @@ Summarize personal commonly used software.
 13. `scoop install gendloopBucket/EdgeGo` 
 14. `scoop install gendloopBucket/VS_2017_Community` 
 15. `scoop install gendloopBucket/BeyondCompare` 
-16. `scoop install gendloopBucket/Listary` 
+16. `scoop install gendloopBucket/Listary`                                                                                                   
 
 ### extras
 
@@ -109,6 +109,7 @@ Summarize personal commonly used software.
 11. `scoop install main/python` 
 12. `scoop install main/jenkins` 
 13. `scoop install main/docker` 
+14. `scoop install main/syncthi` 
 
 ### nerd-fonts
 
