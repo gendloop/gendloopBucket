@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.38.35",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/Quicker",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/Quicker/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
+            "url": "https://github.com/gendloop/Quicker/archive/refs/tags/v1.38.35.zip",
+            "hash": "5cd6765ac3e251a4ef56851e7bb54821948dfc031e9bb72a87f47afeacd9f3b5"
         }
     },
     "installer": {
