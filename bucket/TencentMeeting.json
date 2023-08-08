@@ -12,8 +12,6 @@
     "installer": {
         "script": [
             "Push-Location \"$dir\"",
-            "7z x TencentMeeting.7z",
-            "Remove-Item TencentMeeting.7z",
             "Start-Process TencentMeeting.exe",
             "Pop-Location"
         ]
