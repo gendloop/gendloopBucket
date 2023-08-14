@@ -49,6 +49,7 @@ Summarize personal commonly used software.
 18. `scoop install gendloopBucket/PotPlayer` 
 19. `scoop install gendloopBucket/Quicker` 
 20. `scoop install gendloopBucket/TencentMeeting` 
+21. `scoop install gendloopBucket/AnLink` 
 
 ### extras
 
