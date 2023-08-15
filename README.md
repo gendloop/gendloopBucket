@@ -78,6 +78,7 @@ Summarize personal commonly used software.
 19. `scoop install extras/windowsdesktop-runtime@6.0.15` 
 20. `scoop install extras/v2rayn` 
 21. `scoop install extras/spacesniffer` 
+22. `scoop install extras/musescore` 
 
 ### games
 
