@@ -84,7 +84,7 @@ Summarize personal commonly used software.
 
 [Buckets](#buckets) 
 
-`scoop bucket add https://github.com/Calinou/scoop-games` 
+`scoop bucket add games https://github.com/Calinou/scoop-games` 
 
 
 
