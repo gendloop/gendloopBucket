@@ -79,6 +79,7 @@ Summarize personal commonly used software.
 20. `scoop install extras/v2rayn` 
 21. `scoop install extras/spacesniffer` 
 22. `scoop install extras/musescore` 
+23. `scoop install extras/cloudcompare` 
 
 ### games
 
