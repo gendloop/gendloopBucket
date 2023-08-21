@@ -80,6 +80,7 @@ Summarize personal commonly used software.
 21. `scoop install extras/spacesniffer` 
 22. `scoop install extras/musescore` 
 23. `scoop install extras/cloudcompare` 
+24. `scoop install extras/putty` 
 
 ### games
 
