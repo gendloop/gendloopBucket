@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "3.18.6",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/TencentMeeting",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/TencentMeeting/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
+            "url": "https://github.com/gendloop/TencentMeeting/archive/refs/tags/v3.18.6.zip",
+            "hash": "a42d9ed6609ac91d25c7644aa04fac3e96077dbd9fcd4cbeefed3d09ba27542c"
         }
     },
     "installer": {
