@@ -1,17 +1,19 @@
 {
-    "version": "3.18.6",
+    "version": "1.0.0",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/TencentMeeting",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/TencentMeeting/raw/v3.18.6/dist/TencentMeeting.7z",
+            "url": "https://github.com/gendloop/TencentMeeting/archive/refs/tags/v1.0.0.zip",
             "hash": ""
         }
     },
     "installer": {
         "script": [
             "Push-Location \"$dir\"",
+            "7z x TencentMeeting-$version\\dist\\TencentMeeting.7z.001",
+            "Remove-Item TencentMeeting-$version -Recurse",
             "Start-Process TencentMeeting.exe",
             "Pop-Location"
         ]
@@ -20,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/gendloop/TencentMeeting/raw/v$version/dist/TencentMeeting.7z"
+                "url": "https://github.com/gendloop/TencentMeeting/archive/refs/tags/v$version.zip"
             }
         }
     }
