@@ -49,7 +49,9 @@ Summarize personal commonly used software.
 18. `scoop install gendloopBucket/PotPlayer` 
 19. `scoop install gendloopBucket/Quicker` 
 20. `scoop install gendloopBucket/TencentMeeting` 
-21. `scoop install gendloopBucket/AnLink` 
+21. `scoop install gendloopBucket/AnLink`
+22. `scoop install gendloopBucket/CCProxy` 
+23. `scoop install gendloopBucket/v2rayN` 
 
 ### extras
 
@@ -75,8 +77,8 @@ Summarize personal commonly used software.
 16. `scoop install extras/wechat` 
 17. `scoop install extras/wpsoffice` 
 18. `scoop install extras/shadowsocks` 
-19. `scoop install extras/windowsdesktop-runtime@6.0.15` 
-20. `scoop install extras/v2rayn` 
+19. ~~`scoop install extras/windowsdesktop-runtime@6.0.15`~~ 
+20. ~~`scoop install extras/v2rayn`~~ 
 21. `scoop install extras/spacesniffer` 
 22. `scoop install extras/musescore` 
 23. `scoop install extras/cloudcompare` 
