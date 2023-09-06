@@ -1,0 +1,36 @@
+{
+    "version": "1.0.0",
+    "description": "Gendloop's app",
+    "homepage": "https://github.com/gendloop/v2rayN",
+    "license": "LGPL-2.1-or-later",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/v2rayN/archive/refs/tags/v1.0.0.zip",
+            "hash": ""
+        }
+    },
+    "installer": {
+        "script": [
+            "Push-Location \"$dir\"",
+            "7z x v2rayN-$version\\dist\\v2rayN.7z.001",
+            "Remove-Item v2rayN-$version -Recurse",
+            "Move-Item .\\v2rayN\\* .\\ -Force",
+            "Pop-Location"
+        ]
+    },
+    "bin": "v2rayN.exe",
+    "shortcuts": [
+        [
+            "v2rayN.exe",
+            "v2rayN"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/v2rayN/archive/refs/tags/v$version.zip"
+            }
+        }
+    }
+}
