@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "7.0.0134",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/Xshell",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/Xshell/archive/refs/tags/v1.0.0.zip",
-            "hash": ""
+            "url": "https://github.com/gendloop/Xshell/archive/refs/tags/v7.0.0134.zip",
+            "hash": "465094dd2db03cc831678f13c8297402a6edd440071c66313d233d716b869c4f"
         }
     },
     "installer": {
