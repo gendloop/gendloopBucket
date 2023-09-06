@@ -51,7 +51,8 @@ Summarize personal commonly used software.
 20. `scoop install gendloopBucket/TencentMeeting` 
 21. `scoop install gendloopBucket/AnLink`
 22. `scoop install gendloopBucket/CCProxy` 
-23. `scoop install gendloopBucket/v2rayN` 
+23. `scoop install gendloopBucket/v2rayN`
+24. `scoop install gendloopBucket/Xshell` 
 
 ### extras
 
