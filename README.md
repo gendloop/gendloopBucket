@@ -84,6 +84,7 @@ Summarize personal commonly used software.
 22. `scoop install extras/musescore` 
 23. `scoop install extras/cloudcompare` 
 24. `scoop install extras/putty` 
+25. `scoop install extras/draw.io` 
 
 ### games
 
