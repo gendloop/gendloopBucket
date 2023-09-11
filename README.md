@@ -76,7 +76,7 @@ Summarize personal commonly used software.
 14. `scoop install extras/switchhosts` 
 15. `scoop install extras/vscode` 
 16. `scoop install extras/wechat` 
-17. `scoop install extras/wpsoffice` 
+17. ~~`scoop install extras/wpsoffice`~~ 
 18. `scoop install extras/shadowsocks` 
 19. ~~`scoop install extras/windowsdesktop-runtime@6.0.15`~~ 
 20. ~~`scoop install extras/v2rayn`~~ 
