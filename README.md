@@ -123,6 +123,7 @@ Summarize personal commonly used software.
 12. `scoop install main/jenkins` 
 13. `scoop install main/docker` 
 14. `scoop install main/syncthing` 
+15. `scoop install main/sudo` 
 
 ### nerd-fonts
 
