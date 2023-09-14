@@ -85,7 +85,8 @@ Summarize personal commonly used software.
 22. `scoop install extras/musescore` 
 23. `scoop install extras/cloudcompare` 
 24. `scoop install extras/putty` 
-25. `scoop install extras/draw.io` 
+25. `scoop install extras/draw.io`
+26. `scoop install extras/digikam` 
 
 ### games
 
@@ -124,7 +125,9 @@ Summarize personal commonly used software.
 12. `scoop install main/jenkins` 
 13. `scoop install main/docker` 
 14. `scoop install main/syncthing` 
-15. `scoop install main/sudo` 
+15. `scoop install main/sudo`
+16. `scoop install main/tesseract`
+17. `scoop install main/tesseract-languages`
 
 ### nerd-fonts
 
