@@ -63,7 +63,7 @@ Summarize personal commonly used software.
 
 1. `scoop install extras/everything`
 2. `scoop install extras/fastcopy` 
-3. `scoop install extras/freecad` 
+3. ~~`scoop install extras/freecad`~~ 
 4. `scoop install extras/imageglass` 
 5. `scoop install extras/listary` 
 6. `scoop install extras/motrix` 
