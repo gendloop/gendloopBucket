@@ -87,7 +87,8 @@ Summarize personal commonly used software.
 24. `scoop install extras/putty` 
 25. `scoop install extras/draw.io`
 26. `scoop install extras/digikam`
-27. `scoop install extras/deskpins` 
+27. `scoop install extras/deskpins`
+28. `scoop install extras/rufus` 
 
 ### games
 
