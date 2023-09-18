@@ -86,7 +86,8 @@ Summarize personal commonly used software.
 23. `scoop install extras/cloudcompare` 
 24. `scoop install extras/putty` 
 25. `scoop install extras/draw.io`
-26. `scoop install extras/digikam` 
+26. `scoop install extras/digikam`
+27. `scoop install extras/deskpins` 
 
 ### games
 
