@@ -13,7 +13,7 @@
     "shortcuts": [
         [
             "sublime_text.exe",
-            "sublime_text"
+            "Sublime Text 3"
         ]
     ],
     "checkver": "github",
