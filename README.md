@@ -90,7 +90,10 @@ Summarize personal commonly used software.
 25. `scoop install extras/draw.io`
 26. `scoop install extras/digikam`
 27. `scoop install extras/deskpins`
-28. `scoop install extras/rufus` 
+28. `scoop install extras/rufus`
+29. `scoop install extras/openshot`
+30. `scoop install extras/blender`
+31. `scoop install extras/inkscape` 
 
 ### games
 
@@ -132,6 +135,7 @@ Summarize personal commonly used software.
 15. `scoop install main/sudo`
 16. `scoop install main/tesseract`
 17. `scoop install main/tesseract-languages`
+18. `scoop install main/ffmpeg` 
 
 ### nerd-fonts
 
