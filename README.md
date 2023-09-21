@@ -56,7 +56,8 @@ Summarize personal commonly used software.
 25. `scoop install gendloopBucket/glink`
 26. `scoop install gendloopBucket/Umi-OCR`
 27. `scoop install gendloopBucket/sublime_text`
-28. `scoop install gendloopBucket/DingTalk` 
+28. `scoop install gendloopBucket/DingTalk`
+29. `scoop install gendloopBucket/FileConverter` 
 
 ### extras
 
