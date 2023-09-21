@@ -5,7 +5,7 @@
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-win64.msi",
+            "url": "https://github.com/gendloop/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-win64.7z",
             "hash": "2410944075ed4f0bfd4740e9ee2fd17eae4922980937d738c42bed07ac130c32"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/gendloop/FileConverter/releases/download/v$version/FileConverter-$version-win64.msi"
+                "url": "https://github.com/gendloop/FileConverter/releases/download/v$version/FileConverter-$version-win64.7z"
             }
         }
     }
