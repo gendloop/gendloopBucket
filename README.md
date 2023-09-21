@@ -95,7 +95,8 @@ Summarize personal commonly used software.
 28. `scoop install extras/rufus`
 29. `scoop install extras/openshot`
 30. `scoop install extras/blender`
-31. `scoop install extras/inkscape` 
+31. `scoop install extras/inkscape`
+32. `scoop install extras/emule` 
 
 ### games
 
