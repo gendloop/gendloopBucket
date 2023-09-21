@@ -137,7 +137,8 @@ Summarize personal commonly used software.
 15. `scoop install main/sudo`
 16. `scoop install main/tesseract`
 17. `scoop install main/tesseract-languages`
-18. `scoop install main/ffmpeg` 
+18. `scoop install main/ffmpeg`
+19. `scoop install main/doxygen` 
 
 ### nerd-fonts
 
