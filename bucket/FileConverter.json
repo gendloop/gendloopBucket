@@ -1,0 +1,27 @@
+{
+    "version": "1.0.0",
+    "description": "Gendloop's app",
+    "homepage": "https://github.com/gendloop/FileConverter",
+    "license": "LGPL-2.1-or-later",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/FileConverter/releases/download/v1.0.0/FileConverter-$version-win64.exe",
+            "hash": ""
+        }
+    },
+    "installer": {
+        "script": [
+            "Push-Location \"$dir\"",
+            "Start-Process FileConverter-$version-win64.exe",
+            "Pop-Location"
+        ]
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/FileConverter/releases/download/v$version/FileConverter-$version-win64.exe"
+            }
+        }
+    }
+}
