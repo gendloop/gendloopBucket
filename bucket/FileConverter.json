@@ -9,13 +9,13 @@
             "hash": "2410944075ed4f0bfd4740e9ee2fd17eae4922980937d738c42bed07ac130c32"
         }
     },
-    "bin": "File Converter//FileConverter.exe",
-    "shortcuts": [
-        [
-            "File Converter//FileConverter.exe",
-            "File Converter"
+    "installer": {
+        "script": [
+            "Push-Location \"$dir\"",
+            "Start-Process FileConverter-$version-win64.msi",
+            "Pop-Location"
         ]
-    ],
+    },
     "checkver": "github",
     "autoupdate": {
         "architecture": {
