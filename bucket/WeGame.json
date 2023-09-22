@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "3.12.2",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/WeGame",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/WeGame/releases/download/v1.0.0/WeGame-$version-win64.7z",
-            "hash": ""
+            "url": "https://github.com/gendloop/WeGame/releases/download/v3.12.2/WeGame-3.12.2-win64.7z",
+            "hash": "aecb428f1727c0246975d27b9f597b69fd2ad4eaa96e67f542aa8051fad7c286"
         }
     },
     "installer": {
