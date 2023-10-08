@@ -16,6 +16,9 @@
             "Clash for Windows"
         ]
     ],
+    "persist": [
+        "Data"
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
