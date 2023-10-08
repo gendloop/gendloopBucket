@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "0.19.2",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/ClashForWindows",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/ClashForWindows/releases/download/v1.0.0/ClashForWindows-$version-win64.7z",
-            "hash": ""
+            "url": "https://github.com/gendloop/ClashForWindows/releases/download/v0.19.2/ClashForWindows-0.19.2-win64.7z",
+            "hash": "8e1d6c0c06bdb762f51920000aa3ebdf33f41a677bb974275e8301d6c44aa8b9"
         }
     },
     "bin": "Clash for Windows.exe",
