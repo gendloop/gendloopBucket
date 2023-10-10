@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "0.18.4",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/FreeCAD",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/FreeCAD/releases/download/v1.0.0/FreeCAD-$version-win64.7z",
-            "hash": ""
+            "url": "https://github.com/gendloop/FreeCAD/releases/download/v0.18.4/FreeCAD-0.18.4-win64.7z",
+            "hash": "13d11091f452cb971bbe8c61b01ccfdb7575c727557af9ff67e03aa42e1263d8"
         }
     },
     "installer": {
