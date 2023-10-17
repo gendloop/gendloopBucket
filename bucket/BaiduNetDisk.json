@@ -1,12 +1,12 @@
 {
-    "version": "7.0.2",
+    "version": "7.33.0",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/BaiduNetDisk",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/BaiduNetDisk/releases/download/v7.0.2/BaiduNetDisk-7.0.2-win64.7z",
-            "hash": "ce2d4cd4c5d0559e41bbed76a7071bdb201008cdad82afc6b9540c44c010fe25"
+            "url": "https://github.com/gendloop/BaiduNetDisk/releases/download/v7.33.0/BaiduNetDisk-7.33.0-win64.7z",
+            "hash": "1adac58e01d80b345cebb43f93d02090b4994c00cd9ac2f37cd84d4740ffce41"
         }
     },
     "installer": {
