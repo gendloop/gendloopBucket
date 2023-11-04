@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/depends/releases/download/v2.2.6000/depends-2.2.6000-win64.7z",
-            "hash": "e51f014770a140a7dedce11ab17fb5bdbba8269e000df336bcd3b13909889b1a"
+            "hash": "34a887f11fe29403eadc6bfa86b71399d1081fa69346402836c2ad64814d7a93"
         }
     },
     "bin": "depends.exe",
