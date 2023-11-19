@@ -3,6 +3,7 @@
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/Qt",
     "license": "LGPL-2.1-or-later",
+    "notes": "Please ignore the error report, it has been downloaded to '$dir'",
     "architecture": {
         "64bit": [
             {
