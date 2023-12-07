@@ -2,13 +2,11 @@
 
 Summarize personal commonly used software. 
 
+[Usage](https://github.com/gendloop/gendloopBucket/wiki#gendloopbucket) 
+
 ## Env
 
 * $\ge$ Win 10,  64-bit 
-
-## Apps
-
-[gendloopApps](https://github.com/gendloop/gendloopApps) 
 
 ## Buckets
 
@@ -29,36 +27,7 @@ Summarize personal commonly used software.
 
 `scoop bucket add gendloopBucket https://github.com/gendloop/gendloopBucket` 
 
-1. `scoop install gendloopBucket/7zip` 
-2. `scoop install gendloopBucket/fastgithub` 
-3. `scoop install gendloopBucket/geek` 
-4. `scoop install gendloopBucket/IObitUnlocker` 
-5. `scoop install gendloopBucket/KMS` 
-6. `scoop install gendloopBucket/NeatDM` 
-7. `scoop install gendloopBucket/sogouwubi` 
-8. `scoop install gendloopBucket/steamcommunity` 
-9. `scoop install gendloopBucket/Typora` 
-10. `scoop install gendloopBucket/YuQue` 
-11. `scoop install gendloopBucket/chatbox` 
-12. `scoop install gendloopBucket/ALiCloudDisk` 
-13. `scoop install gendloopBucket/EdgeGo` 
-14. `scoop install gendloopBucket/VS_2017_Community` 
-15. `scoop install gendloopBucket/BeyondCompare` 
-16. ~~`scoop install gendloopBucket/Listary`~~ 
-17. `scoop install gendloopBucket/synergy` 
-18. `scoop install gendloopBucket/PotPlayer` 
-19. `scoop install gendloopBucket/Quicker` 
-20. `scoop install gendloopBucket/TencentMeeting` 
-21. `scoop install gendloopBucket/AnLink`
-22. `scoop install gendloopBucket/CCProxy` 
-23. `scoop install gendloopBucket/v2rayN`
-24. `scoop install gendloopBucket/Xshell`
-25. `scoop install gendloopBucket/glink`
-26. `scoop install gendloopBucket/Umi-OCR`
-27. `scoop install gendloopBucket/sublime_text`
-28. `scoop install gendloopBucket/DingTalk`
-29. `scoop install gendloopBucket/FileConverter`
-30. `scoop install gendloopBucket/WeGame` 
+[gendloopApps](https://github.com/gendloop/gendloopApps) 
 
 ### extras
 
@@ -68,13 +37,13 @@ Summarize personal commonly used software.
 
 1. `scoop install extras/everything`
 2. `scoop install extras/fastcopy` 
-3. ~~`scoop install extras/freecad`~~ 
+3. ~~`scoop install extras/freecad`~~ => `scoop install gendloopBucket/FreeCAD` 
 4. `scoop install extras/imageglass` 
-5. `scoop install extras/listary` 
+5. ~~`scoop install extras/listary`~~ => `scoop install gendloopBucket/ListaryPro` 
 6. `scoop install extras/motrix` 
 7. `scoop install extras/ndm` 
 8. `scoop install extras/nsis` 
-9. `scoop install extras/qt-creator` 
+9. ~~`scoop install extras/qt-creator`~~ => `scoop install gendloopBucket/Qt`  
 10. `scoop install extras/quicklook` 
 11. `scoop install extras/scoop-completion` 
 12. `scoop install extras/screentogif` 
@@ -82,21 +51,31 @@ Summarize personal commonly used software.
 14. `scoop install extras/switchhosts` 
 15. `scoop install extras/vscode` 
 16. `scoop install extras/wechat` 
-17. ~~`scoop install extras/wpsoffice`~~ 
+17. ~~`scoop install extras/wpsoffice`~~ => `scoop install gendloopBucket/wps` 
 18. `scoop install extras/shadowsocks` 
 19. ~~`scoop install extras/windowsdesktop-runtime@6.0.15`~~ 
-20. ~~`scoop install extras/v2rayn`~~ 
+20. ~~`scoop install extras/v2rayn`~~ => `scoop install gendloopBucket/v2rayN` 
 21. `scoop install extras/spacesniffer` 
 22. `scoop install extras/musescore` 
 23. `scoop install extras/cloudcompare` 
 24. `scoop install extras/putty` 
-25. `scoop install extras/draw.io`
-26. `scoop install extras/digikam`
-27. `scoop install extras/deskpins`
-28. `scoop install extras/rufus`
-29. `scoop install extras/openshot`
-30. `scoop install extras/blender`
-31. `scoop install extras/inkscape`
+25. `scoop install extras/draw.io` 
+26. `scoop install extras/digikam` 
+27. `scoop install extras/deskpins` 
+28. `scoop install extras/rufus` 
+29. `scoop install extras/openshot` 
+30. `scoop install extras/blender` 
+31. `scoop install extras/inkscape` 
+32. `scoop install extras/rustdesk` 
+33. `scoop install extras/keepass` 
+34. `scoop install extras/keepass-plugin-keetraytotp` 
+35. `scoop install extras/keepass-plugin-keepasshttp` 
+36. `scoop install extras/keepass-plugin-webautotype` 
+37. `scoop install extras/obs-studio` 
+38. `scoop install extras/landrop`
+39. `scoop install extras/qtranslate`
+40. `scoop install extras/dismplusplus`
+41. `scoop install extras/hwinfo` 
 
 ### games
 
@@ -130,7 +109,7 @@ Summarize personal commonly used software.
 7. `scoop install main/innounp` 
 8. `scoop install main/mysql` 
 9. `scoop install main/nodejs` 
-10. `scoop install main/perl`
+10. `scoop install main/perl@5.32.1.1`
 11. `scoop install main/python` 
 12. `scoop install main/jenkins` 
 13. `scoop install main/docker` 
@@ -139,7 +118,11 @@ Summarize personal commonly used software.
 16. `scoop install main/tesseract`
 17. `scoop install main/tesseract-languages`
 18. `scoop install main/ffmpeg`
-19. `scoop install main/doxygen` 
+19. `scoop install main/doxygen`
+20. `scoop install main/jq`
+21. `scoop install main/ruby`
+22. `scoop install main/msys2`
+23. ~~`scoop install main/7zip`~~ => `scoop install gendloopBucket/7zip` 
 
 ### nerd-fonts
 
