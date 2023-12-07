@@ -2,7 +2,7 @@
 
 Summarize personal commonly used software. 
 
-[Usage](https://github.com/gendloop/gendloopBucket/wiki#gendloopbucket) 
+[Usage](https://github.com/gendloop/gendloopBucket/wiki) 
 
 ## Env
 
