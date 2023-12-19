@@ -35,6 +35,18 @@
             "branch": "main",
             "is_private": false,
             "token": ""
+        },
+        {
+            "files": [
+                "Standardization/.editorconfig",
+                "Standardization/.markdownlint.json"
+            ],
+            "local_dir": "..",
+            "user": "gendloop",
+            "repo": "Tools",
+            "branch": "main",
+            "is_private": true,
+            "token": ""
         }
     ]
 }
