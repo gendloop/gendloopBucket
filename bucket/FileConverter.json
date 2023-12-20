@@ -1,6 +1,6 @@
 {
     "version": "1.2.3",
-    "description": "Gendloop's app",
+    "description": "文件格式转化工具",
     "homepage": "https://github.com/gendloop/FileConverter",
     "license": "LGPL-2.1-or-later",
     "architecture": {

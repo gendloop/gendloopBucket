@@ -1,6 +1,6 @@
 {
     "version": "0.6.2",
-    "description": "Gendloop's app",
+    "description": "ChatGPT客户端",
     "homepage": "https://github.com/gendloop/chatbox",
     "license": "LGPL-2.1-or-later",
     "architecture": {

@@ -1,6 +1,6 @@
 {
     "version": "5.9.1",
-    "description": "Gendloop's app",
+    "description": "Qt",
     "homepage": "https://github.com/gendloop/Qt",
     "license": "LGPL-2.1-or-later",
     "notes": "Please ignore the error report, it has been downloaded to '$dir'",

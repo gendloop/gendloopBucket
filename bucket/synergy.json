@@ -1,6 +1,6 @@
 {
     "version": "1.10.0",
-    "description": "Gendloop's app",
+    "description": "键鼠共享工具",
     "homepage": "https://github.com/gendloop/synergy",
     "license": "LGPL-2.1-or-later",
     "architecture": {

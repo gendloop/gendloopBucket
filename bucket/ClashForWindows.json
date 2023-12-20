@@ -1,6 +1,6 @@
 {
     "version": "0.20.37",
-    "description": "Gendloop's app",
+    "description": "VPN客户端",
     "homepage": "https://github.com/gendloop/ClashForWindows",
     "license": "LGPL-2.1-or-later",
     "architecture": {

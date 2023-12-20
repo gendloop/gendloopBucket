@@ -1,6 +1,6 @@
 {
     "version": "23.01",
-    "description": "A multi-format file archiver with high compression ratios",
+    "description": "压缩工具",
     "homepage": "https://www.7-zip.org/",
     "license": "LGPL-2.1-or-later",
     "notes": "7-Zip has been added to the context menu by running: \"$dir\\install-context.reg\"",

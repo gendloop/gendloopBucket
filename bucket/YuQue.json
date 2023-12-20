@@ -1,6 +1,6 @@
 {
     "version": "2.7.3",
-    "description": "Gendloop's app",
+    "description": "语雀",
     "homepage": "https://github.com/gendloop/YuQue",
     "license": "LGPL-2.1-or-later",
     "architecture": {

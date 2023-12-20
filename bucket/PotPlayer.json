@@ -1,6 +1,6 @@
 {
     "version": "1.7.1",
-    "description": "Gendloop's app",
+    "description": "视频播放器",
     "homepage": "https://github.com/gendloop/PotPlayer",
     "license": "LGPL-2.1-or-later",
     "architecture": {

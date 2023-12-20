@@ -1,6 +1,6 @@
 {
     "version": "6.23.0",
-    "description": "Gendloop's app",
+    "description": "v2rayN(VPN代理客户端)",
     "homepage": "https://github.com/gendloop/v2rayN",
     "license": "LGPL-2.1-or-later",
     "architecture": {

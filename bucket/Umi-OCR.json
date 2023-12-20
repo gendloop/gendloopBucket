@@ -1,6 +1,6 @@
 {
     "version": "1.3.5",
-    "description": "Gendloop's app",
+    "description": "离线OCR",
     "homepage": "https://github.com/gendloop/Umi-OCR",
     "license": "LGPL-2.1-or-later",
     "architecture": {

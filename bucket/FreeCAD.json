@@ -1,6 +1,6 @@
 {
     "version": "0.18.4",
-    "description": "Gendloop's app",
+    "description": "FreeCAD",
     "homepage": "https://github.com/gendloop/FreeCAD",
     "license": "LGPL-2.1-or-later",
     "architecture": {

@@ -1,6 +1,6 @@
 {
     "version": "7.33.0",
-    "description": "Gendloop's app",
+    "description": "百度网盘",
     "homepage": "https://github.com/gendloop/BaiduNetDisk",
     "license": "LGPL-2.1-or-later",
     "architecture": {

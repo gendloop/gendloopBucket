@@ -1,6 +1,6 @@
 {
     "version": "2.2.6000",
-    "description": "Gendloop's app",
+    "description": "Dependency Walker",
     "homepage": "https://github.com/gendloop/depends",
     "license": "LGPL-2.1-or-later",
     "architecture": {
