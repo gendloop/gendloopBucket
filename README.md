@@ -68,9 +68,9 @@ Summarize personal commonly used software.
 31. `scoop install extras/inkscape`
 32. `scoop install extras/rustdesk`
 33. `scoop install extras/keepass`
-34. `scoop install extras/keepass-plugin-keetraytotp`
-35. `scoop install extras/keepass-plugin-keepasshttp`
-36. `scoop install extras/keepass-plugin-webautotype`
+34. ~~`scoop install extras/keepass-plugin-keetraytotp`~~
+35. ~~`scoop install extras/keepass-plugin-keepasshttp`~~
+36. ~~`scoop install extras/keepass-plugin-webautotype`~~ => `scoop install gendloopBucket/keepass-plugins`
 37. `scoop install extras/obs-studio`
 38. `scoop install extras/landrop`
 39. `scoop install extras/qtranslate`
@@ -165,10 +165,3 @@ Summarize personal commonly used software.
 
 1. `scoop install versions/googlechrome-beta`
 1. `scoop install versions/snipaste-beta`
-
-
-
-
-
-
-
