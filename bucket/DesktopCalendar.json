@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "3.10.168",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/DesktopCalendar",
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/DesktopCalendar/releases/download/v1.0.0/DesktopCalendar-$version-win64.7z",
-            "hash": ""
+            "url": "https://github.com/gendloop/DesktopCalendar/releases/download/v3.10.168/DesktopCalendar-3.10.168-win64.7z",
+            "hash": "645b7102724d902c61dde0613587cd4b948514ccb76cc5f68b5c18dec7effa4d"
         }
     },
     "installer": {
