@@ -76,6 +76,7 @@ Summarize personal commonly used software.
 39. `scoop install extras/qtranslate`
 40. `scoop install extras/dismplusplus`
 41. `scoop install extras/hwinfo`
+42. `scoop install extras/copyq` 
 
 ### games
 
