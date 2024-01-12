@@ -73,7 +73,7 @@ Summarize personal commonly used software.
 36. ~~`scoop install extras/keepass-plugin-webautotype`~~ => `scoop install gendloopBucket/keepass-plugins`
 37. `scoop install extras/obs-studio`
 38. `scoop install extras/landrop`
-39. `scoop install extras/qtranslate`
+39. ~~`scoop install extras/qtranslate`~~ => `scoop install gendloopBucket/saladict-desktop` 
 40. `scoop install extras/dismplusplus`
 41. `scoop install extras/hwinfo`
 42. `scoop install extras/copyq` 
