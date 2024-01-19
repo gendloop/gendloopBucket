@@ -124,6 +124,7 @@ Summarize personal commonly used software.
 21. `scoop install main/ruby`
 22. `scoop install main/msys2`
 23. ~~`scoop install main/7zip`~~ => `scoop install gendloopBucket/7zip`
+24. `scoop install main/pandoc` 
 
 ### nerd-fonts
 
