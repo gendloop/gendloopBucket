@@ -3,6 +3,9 @@
     "description": "视频播放器",
     "homepage": "https://github.com/gendloop/PotPlayer",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/PotPlayer/archive/refs/tags/v1.7.1.zip",

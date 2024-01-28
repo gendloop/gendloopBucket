@@ -3,6 +3,9 @@
     "description": "百度网盘",
     "homepage": "https://github.com/gendloop/BaiduNetDisk",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/BaiduNetDisk/releases/download/v7.33.0/BaiduNetDisk-7.33.0-win64.7z",

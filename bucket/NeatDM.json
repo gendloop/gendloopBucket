@@ -3,6 +3,9 @@
     "description": "多功能下载器",
     "homepage": "https://github.com/gendloop/NeatDM",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/NeatDM/archive/refs/tags/v1.4.20.zip",

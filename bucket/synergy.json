@@ -3,6 +3,9 @@
     "description": "键鼠共享工具",
     "homepage": "https://github.com/gendloop/synergy",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/synergy/archive/refs/tags/v1.10.0.zip",

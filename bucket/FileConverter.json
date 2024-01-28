@@ -3,6 +3,9 @@
     "description": "文件格式转化工具",
     "homepage": "https://github.com/gendloop/FileConverter",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-win64.7z",

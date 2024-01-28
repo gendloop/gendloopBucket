@@ -3,6 +3,9 @@
     "description": "Dependency Walker",
     "homepage": "https://github.com/gendloop/depends",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/depends/releases/download/v2.2.6000/depends-2.2.6000-win64.7z",

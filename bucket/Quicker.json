@@ -3,6 +3,9 @@
     "description": "Quicker",
     "homepage": "https://github.com/gendloop/Quicker",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/Quicker/archive/refs/tags/v1.38.35.zip",

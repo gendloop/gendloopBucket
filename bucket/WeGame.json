@@ -3,6 +3,9 @@
     "description": "WeGame",
     "homepage": "https://github.com/gendloop/WeGame",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/WeGame/releases/download/v3.12.2/WeGame-3.12.2-win64.7z",

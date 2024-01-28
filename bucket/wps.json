@@ -3,6 +3,9 @@
     "description": "WPS",
     "homepage": "https://github.com/gendloop/wps",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/wps/releases/download/v12.1.0/wps-12.1.0-win64.7z",

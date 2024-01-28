@@ -3,6 +3,9 @@
     "description": "Listary",
     "homepage": "https://github.com/gendloop/Listary",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/Listary/archive/refs/tags/v5.0.2843.zip",

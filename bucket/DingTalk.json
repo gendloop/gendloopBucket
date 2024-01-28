@@ -3,6 +3,9 @@
     "description": "钉钉",
     "homepage": "https://github.com/gendloop/DingTalk",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/DingTalk/releases/download/v7.1.0/DingTalk-7.1.0-win64.exe",

@@ -3,6 +3,9 @@
     "description": "FreeCAD",
     "homepage": "https://github.com/gendloop/FreeCAD",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/FreeCAD/releases/download/v0.18.4/FreeCAD-0.18.4-win64.7z",

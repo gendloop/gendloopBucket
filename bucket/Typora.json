@@ -3,6 +3,9 @@
     "description": "Typora(永久授权)",
     "homepage": "https://github.com/gendloop/Typora",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/Typora/archive/refs/tags/v1.3.8.zip",

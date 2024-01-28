@@ -3,6 +3,9 @@
     "description": "VPN客户端",
     "homepage": "https://github.com/gendloop/ClashForWindows",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/ClashForWindows/releases/download/v0.20.37/ClashForWindows-0.20.37-win64.7z",

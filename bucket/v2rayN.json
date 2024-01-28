@@ -3,6 +3,9 @@
     "description": "v2rayN(VPN代理客户端)",
     "homepage": "https://github.com/gendloop/v2rayN",
     "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/v2rayN/archive/refs/tags/v6.23.0.zip",
