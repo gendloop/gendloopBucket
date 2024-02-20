@@ -166,4 +166,4 @@ Summarize personal commonly used software.
 `scoop bucket add versions https://github.com/ScoopInstaller/Versions`
 
 1. `scoop install versions/googlechrome-beta`
-1. `scoop install versions/snipaste-beta`
+1. ~~`scoop install versions/snipaste-beta`~~ => `scoop install gendloopBucket/snipaste` 
