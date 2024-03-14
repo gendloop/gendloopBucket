@@ -1,0 +1,31 @@
+{
+    "version": "3.7.3",
+    "description": "文件预览工具(已包含所有常用插件)",
+    "homepage": "https://github.com/gendloop/QuickLook",
+    "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/QuickLook/releases/download/v3.7.3/QuickLook-3.7.3-win64.7z",
+            "hash": "e1c2d5286cab5c9a8eb8576373d74d0cfbd597dcecab8ce29ff0465a9830d703"
+        }
+    },
+    "bin": "QuickLook.exe",
+    "shortcuts": [
+        [
+            "QuickLook.exe",
+            "QuickLook"
+        ]
+    ],
+    "persist": "UserData",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/QuickLook/releases/download/v$version/QuickLook-$version-win64.7z"
+            }
+        }
+    }
+}
