@@ -44,7 +44,7 @@ Summarize personal commonly used software.
 7. `scoop install extras/ndm`
 8. `scoop install extras/nsis`
 9. ~~`scoop install extras/qt-creator`~~ => `scoop install gendloopBucket/Qt`
-10. `scoop install extras/quicklook`
+10. ~~`scoop install extras/quicklook`~~ => `scoop install gendloopBucket/QuickLook`
 11. `scoop install extras/scoop-completion`
 12. `scoop install extras/screentogif`
 13. `scoop install extras/sharex`
