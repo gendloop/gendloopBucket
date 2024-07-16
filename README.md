@@ -126,6 +126,8 @@ Summarize personal commonly used software.
 23. ~~`scoop install main/7zip`~~ => `scoop install gendloopBucket/7zip`
 24. `scoop install main/pandoc`
 25. `scoop install main/dotnet-sdk` 
+26. `scoop install main/openssh` 
+27. `scoop install main/miktex` 
 
 ### nerd-fonts
 
