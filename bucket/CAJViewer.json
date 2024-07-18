@@ -1,0 +1,30 @@
+{
+    "version": "1.0.0",
+    "description": "CAJ格式文件查看器",
+    "homepage": "https://github.com/gendloop/CAJViewer",
+    "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Installer>"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/CAJViewer/releases/download/v1.0.0/CAJViewer-$version-win64.7z",
+            "hash": ""
+        }
+    },
+    "installer": {
+        "script": [
+            "Push-Location \"$dir\"",
+            "Start-Process CAJViewer-$version-win64.exe",
+            "Pop-Location"
+        ]
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/CAJViewer/releases/download/v$version/CAJViewer-$version-win64.7z"
+            }
+        }
+    }
+}
