@@ -1,0 +1,30 @@
+{
+    "version": "1.0.0",
+    "description": "使用电脑键盘演奏音乐的开源软件",
+    "homepage": "https://github.com/gendloop/freepiano",
+    "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/freepiano/releases/download/v1.0.0/freepiano-$version-win64.7z",
+            "hash": ""
+        }
+    },
+    "bin": "freepiano.exe",
+    "shortcuts": [
+        [
+            "freepiano.exe",
+            "freepiano"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/freepiano/releases/download/v$version/freepiano-$version-win64.7z"
+            }
+        }
+    }
+}
