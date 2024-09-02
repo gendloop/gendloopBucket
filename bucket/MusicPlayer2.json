@@ -1,0 +1,41 @@
+{
+    "version": "1.0.0",
+    "description": "本地音乐播放器(改为个人喜好配置)",
+    "homepage": "https://github.com/gendloop/MusicPlayer2",
+    "license": "LGPL-2.1-or-later",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/MusicPlayer2/releases/download/v1.0.0/MusicPlayer2-$version-win64.7z",
+            "hash": ""
+        }
+    },
+    "bin": "MusicPlayer2.exe",
+    "shortcuts": [
+        [
+            "MusicPlayer2.exe",
+            "MusicPlayer2"
+        ]
+    ],
+    "pre_install": [
+        "$GLOBAL_CFG = 'global_cfg.ini'",
+        "if (!(Test-Path \"$persist_dir\\$GLOBAL_CFG\")) {",
+        "    Set-Content \"$dir\\$GLOBAL_CFG\" @('[config]', 'portable_mode = true') -Encoding Ascii",
+        "}",
+        "'recent_path.dat', 'song_data.dat' | ForEach-Object { if (!(Test-Path \"$persist_dir\\$_\")) { New-Item \"$dir\\$_\" -ItemType File -Force | Out-Null } }"
+    ],
+    "persist": [
+        "playlist",
+        "recent_path.dat",
+        "song_data.dat",
+        "config.ini",
+        "global_cfg.ini"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/MusicPlayer2/releases/download/v$version/MusicPlayer2-$version-win64.7z"
+            }
+        }
+    }
+}
