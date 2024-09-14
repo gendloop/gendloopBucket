@@ -1,13 +1,13 @@
 {
-    "version": "1.0.0",
+    "version": "2020.11.30",
     "description": "RaiDrive 远程挂载工具",
     "homepage": "https://github.com/gendloop/RaiDrive",
     "license": "LGPL-2.1-or-later",
     "notes": "<Installer>",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/YuQueRaiDriveInstaller/releases/download/v1.0.0/RaiDrive-1.0.0-win64.7z",
-            "hash": ""
+            "url": "https://github.com/gendloop/RaiDrive/releases/download/v2020.11.30/RaiDrive-2020.11.30-win64.7z",
+            "hash": "4c9eb5929063fdb97eb557cc858c9fe6258c0e38c92c1c9d9b633c95bfdbf0fe"
         }
     },
     "installer": {
