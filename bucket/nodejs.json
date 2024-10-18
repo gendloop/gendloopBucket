@@ -1,0 +1,36 @@
+{
+    "version": "1.0.0",
+    "description": "An asynchronous event driven JavaScript runtime designed to build scalable network applications.",
+    "homepage": "https://github.com/gendloop/nodejs",
+    "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/nodejs/releases/download/v1.0.0/nodejs-$version-win64.7z",
+            "hash": "",
+            "extract_dir": "node-v1.0.0-win-x64"
+        }
+    },
+    "persist": [
+        "bin",
+        "cache"
+    ],
+    "env_add_path": [
+        "bin",
+        "."
+    ],
+    "post_install": [
+        "# Set npm prefix to install modules inside bin and npm cache so they persist",
+        "Set-Content -Value \"prefix=$persist_dir\\bin`ncache=$persist_dir\\cache\" -Path \"$dir\\node_modules\\npm\\npmrc\""
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/nodejs/releases/download/v$version/nodejs-$version-win64.7z"
+            }
+        }
+    }
+}
