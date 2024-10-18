@@ -8,7 +8,7 @@
         "64bit": {
             "url": "https://github.com/gendloop/nodejs/releases/download/v10.24.1/nodejs-10.24.1-win64.7z",
             "hash": "37407d9b9000964acabea7f6101eb21f4bf8945c084e40408d4eddd98628ff87",
-            "extract_dir": "node-v1.0.0-win-x64"
+            "extract_dir": "node-v10.24.1-win-x64"
         }
     },
     "persist": [
