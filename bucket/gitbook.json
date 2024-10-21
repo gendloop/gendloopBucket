@@ -1,21 +1,17 @@
 {
-    "version": "1.0.0",
+    "version": "3.2.3",
     "description": "Gendloop's app",
     "homepage": "https://github.com/gendloop/gitbook",
     "license": "LGPL-2.1-or-later",
-    "notes": [
-        "<Portable>"
-    ],
+    "notes": "<Portable>",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/gitbook/releases/download/v1.0.0/gitbook-$version-win64.7z",
-            "hash": ""
+            "url": "https://github.com/gendloop/gitbook/releases/download/v3.2.3/gitbook-3.2.3-win64.7z",
+            "hash": "8fc04de61c0c0188568d493708139234ba8483fb8707f7f15db1a31392f5117a"
         }
     },
     "installer": {
-        "script": [
-            "7z x \"$dir\\gitbook-$version-win64.7z\" -o\"$env:USERPROFILE\\.gitbook\\versions\""
-        ]
+        "script": "7z x \"$dir\\gitbook-$version-win64.7z\" -o\"$env:USERPROFILE\\.gitbook\\versions\""
     },
     "checkver": "github",
     "autoupdate": {
