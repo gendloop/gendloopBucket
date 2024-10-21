@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/gendloop/gitbook/releases/download/v3.2.3/gitbook-3.2.3-win64.7z",
-            "hash": "8fc04de61c0c0188568d493708139234ba8483fb8707f7f15db1a31392f5117a"
+            "hash": "8cdd21e4580ab6d9e5acb90f350887083ec2b0eed82642f18fdc0f5dd789b930"
         }
     },
     "installer": {
-        "script": "7z x \"$dir\\gitbook-3.2.3-win64.7z\" -o\"$env:USERPROFILE\\.gitbook\\versions\""
+        "script": "7z x \"$dir\\gitbook-3.2.3-win64.zip\" -o\"$env:USERPROFILE\\.gitbook\\versions\""
     },
     "checkver": "github",
     "autoupdate": {
