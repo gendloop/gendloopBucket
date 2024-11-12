@@ -4,7 +4,8 @@
     "homepage": "https://github.com/gendloop/Rime",
     "license": "LGPL-2.1-or-later",
     "notes": [
-        "<Installer>"
+        "<Installer>",
+        "访问 'https://github.com/gendloop/Rime?tab=readme-ov-file#config' 查看配置方法"
     ],
     "architecture": {
         "64bit": {
