@@ -1,0 +1,30 @@
+{
+    "version": "1.0.0",
+    "description": "金山打字通 2016",
+    "homepage": "https://github.com/gendloop/TypeEasy",
+    "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable>"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/TypeEasy/releases/download/v1.0.0/TypeEasy-1.0.0-win64.7z",
+            "hash": ""
+        }
+    },
+    "bin": "TypeEasy.exe",
+    "shortcuts": [
+        [
+            "TypeEasy.exe",
+            "TypeEasy"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/TypeEasy/releases/download/v$version/TypeEasy-$version-win64.7z"
+            }
+        }
+    }
+}
