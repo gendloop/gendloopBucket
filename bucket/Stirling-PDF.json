@@ -1,15 +1,13 @@
 {
-    "version": "1.0.0",
+    "version": "0.45.6",
     "description": "PDF 转换工具箱",
     "homepage": "https://github.com/gendloop/Stirling-PDF",
     "license": "LGPL-2.1-or-later",
-    "notes": [
-        "<Installer>"
-    ],
+    "notes": "<Installer>",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/Stirling-PDF/releases/download/v1.0.0/Stirling-PDF-$version-win64.7z",
-            "hash": ""
+            "url": "https://github.com/gendloop/Stirling-PDF/releases/download/v0.45.6/Stirling-PDF-0.45.6-win64.7z",
+            "hash": "ee038592196ee9538e6e774c5716da14aded6542cc8635e46059294bcd7e477e"
         }
     },
     "installer": {
