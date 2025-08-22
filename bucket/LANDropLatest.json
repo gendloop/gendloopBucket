@@ -1,0 +1,30 @@
+{
+    "version": "1.0.0",
+    "description": "跨平台局域网文件传输工具, 支持Windows, Linux, macOS等系统",
+    "homepage": "https://github.com/gendloop/LANDropLatest",
+    "license": "LGPL-2.1-or-later",
+    "notes": [
+        "<Portable|Installer>"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/LANDropLatest/releases/download/v1.0.0/LANDropLatest-$version-win64.7z",
+            "hash": ""
+        }
+    },
+    "installer": {
+        "script": [
+            "Push-Location \"$dir\"",
+            "Start-Process LANDropLatest-$version-win64.exe",
+            "Pop-Location"
+        ]
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/LANDropLatest/releases/download/v$version/LANDropLatest-$version-win64.7z"
+            }
+        }
+    }
+}
