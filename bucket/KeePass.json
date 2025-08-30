@@ -8,7 +8,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/KeePass/releases/download/v1.0.0/KeePass-$version-win64.exe",
+            "url": "https://github.com/gendloop/KeePass/releases/download/v1.0.0/KeePass-$version-win64.7z",
             "hash": ""
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/gendloop/KeePass/releases/download/v$version/KeePass-$version-win64.exe"
+                "url": "https://github.com/gendloop/KeePass/releases/download/v$version/KeePass-$version-win64.7z"
             }
         }
     }
