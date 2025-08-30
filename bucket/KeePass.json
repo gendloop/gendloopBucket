@@ -1,15 +1,13 @@
 {
-    "version": "1.0.0",
+    "version": "2.54.0",
     "description": "密码管理器",
     "homepage": "https://github.com/gendloop/KeePass",
     "license": "LGPL-2.1-or-later",
-    "notes": [
-        "<Portable>"
-    ],
+    "notes": "<Portable>",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/KeePass/releases/download/v1.0.0/KeePass-$version-win64.7z",
-            "hash": ""
+            "url": "https://github.com/gendloop/KeePass/releases/download/v2.54.0/KeePass-2.54.0-win64.7z",
+            "hash": "1b386447bc4b9d59b6ae8b0ad318d27e1350e42d40e965336b6e620e29e085b7"
         }
     },
     "innosetup": true,
