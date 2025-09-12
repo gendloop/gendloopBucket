@@ -12,6 +12,7 @@
     },
     "bin": "gInk.exe",
     "shortcuts": [["gInk.exe", "gInk"]],
+    "persist": ["config.ini", "hotkeys.ini", "pens.ini"],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
