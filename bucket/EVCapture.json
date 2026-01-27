@@ -1,0 +1,23 @@
+{
+    "version": "1.0.0",
+    "description": "EV录屏",
+    "homepage": "https://github.com/gendloop/EVCapture",
+    "license": "LGPL-2.1-or-later",
+    "notes": ["<Portable>"],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gendloop/EVCapture/releases/download/v1.0.0/EVCapture-$version-win64.7z",
+            "hash": ""
+        }
+    },
+    "bin": "EVCapture.exe",
+    "shortcuts": [["EVCapture.exe", "EVCapture"]],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/gendloop/EVCapture/releases/download/v$version/EVCapture-$version-win64.7z"
+            }
+        }
+    }
+}
