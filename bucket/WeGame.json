@@ -1,15 +1,13 @@
 {
-    "version": "3.12.2",
+    "version": "7.6.27",
     "description": "WeGame",
     "homepage": "https://github.com/gendloop/WeGame",
     "license": "LGPL-2.1-or-later",
-    "notes": [
-        "<Installer>"
-    ],
+    "notes": "<Installer>",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/WeGame/releases/download/v3.12.2/WeGame-3.12.2-win64.7z",
-            "hash": "aecb428f1727c0246975d27b9f597b69fd2ad4eaa96e67f542aa8051fad7c286"
+            "url": "https://github.com/gendloop/WeGame/releases/download/v7.6.27/WeGame-7.6.27-win64.7z",
+            "hash": "bc3d13586b4cea84d1f624595d953dc244d9b626657e6c421e89fbc962712795"
         }
     },
     "installer": {
