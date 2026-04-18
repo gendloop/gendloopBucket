@@ -1,17 +1,22 @@
 {
-    "version": "1.5.1",
+    "version": "1.5.3",
     "description": "软件卸载工具",
     "homepage": "https://github.com/gendloop/geek",
     "license": "LGPL-2.1-or-later",
-    "notes": ["<Portable>"],
+    "notes": "<Portable>",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/geek/releases/download/v1.5.1/geek-1.5.1-win64.7z",
-            "hash": "e2fed306dd402e6186454ce863ea7ad2af2201eddfc26c2009a556ba34779f94"
+            "url": "https://github.com/gendloop/geek/releases/download/v1.5.3/geek-1.5.3-win64.7z",
+            "hash": "cb86d89d655ea5c13d43d794e59e4ed105479525765a6834372c1999fbb5e063"
         }
     },
     "bin": "geek.exe",
-    "shortcuts": [["geek.exe", "geek"]],
+    "shortcuts": [
+        [
+            "geek.exe",
+            "geek"
+        ]
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
