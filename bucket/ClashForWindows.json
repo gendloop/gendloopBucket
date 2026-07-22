@@ -1,15 +1,13 @@
 {
-    "version": "0.20.37",
+    "version": "0.20.371",
     "description": "VPN客户端",
     "homepage": "https://github.com/gendloop/ClashForWindows",
     "license": "LGPL-2.1-or-later",
-    "notes": [
-        "<Portable>"
-    ],
+    "notes": "<Portable>",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/ClashForWindows/releases/download/v0.20.37/ClashForWindows-0.20.37-win64.7z",
-            "hash": "09cf9c7aeeefda02a09541f4ec1fc24a6641d03d1c0694d3693ef271d5d78e8d"
+            "url": "https://github.com/gendloop/ClashForWindows/releases/download/v0.20.371/ClashForWindows-0.20.371-win64.7z",
+            "hash": "c49632c2df0b6226f92fa80d8515946ae460b92446a20563992ddbe870435d2b"
         }
     },
     "bin": "Clash for Windows.exe",
