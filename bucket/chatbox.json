@@ -8,16 +8,14 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/chatbox/archive/refs/tags/v0.6.2.zip",
-            "hash": "4baabbc93e7973d7a7a47cd5a3c0b45f8f3cea5d130d5aeb0cdfe31ff7bff1c1"
+            "url": "https://github.com/gendloop/chatbox/releases/download/v0.6.2/chatbox-0.6.2-win64.7z",
+            "hash": "a478b4042a06a6de1f951b320553a1b66c271f128264f7df0d2042a2bf0d859c"
         }
     },
     "installer": {
         "script": [
             "Push-Location \"$dir\"",
-            "7z x chatbox-$version\\dist\\chatbox.7z",
-            "Remove-Item chatbox-$version -Recurse",
-            "Start-Process chatbox.exe",
+            "Start-Process chatbox-$version-win64.exe",
             "Pop-Location"
         ]
     },
