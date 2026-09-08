@@ -1,13 +1,13 @@
 {
-    "version": "0.6.2",
+    "version": "1.23.1",
     "description": "ChatGPT客户端",
     "homepage": "https://github.com/gendloop/chatbox",
     "license": "LGPL-2.1-or-later",
     "notes": "<Installer>",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gendloop/chatbox/releases/download/v0.6.2/chatbox-0.6.2-win64.7z",
-            "hash": "cbe8ec4a129028ea8ca70a8d1ce26eeb5816cfe802f78cf841d908011d588a42"
+            "url": "https://github.com/gendloop/chatbox/releases/download/v1.23.1/chatbox-1.23.1-win64.7z",
+            "hash": "bf4fe18e74d440deda657d86e092f365fad84505cf74a4154c1a884d5b4341cc"
         }
     },
     "installer": {
